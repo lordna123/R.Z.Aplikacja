@@ -1,1 +1,1 @@
-# R.Z.Aplikajca
+# R.Z.Aplikacja
